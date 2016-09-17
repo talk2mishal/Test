@@ -1,28 +1,28 @@
 {
   "jira": {
     "protocol": "https",
-    "host": "weareswat.atlassian.net",
+    "host": "jira.infostretch.com",
     "port": "",
-    "user": "user",
-    "password": "pass",
+    "user": "mishal.shah@infostretch.com",
+    "password": "September123#",
     "defaultApi": {
       "version": "2"
     },
     "greenhopper": {
       "version": "1.0"
     },
-    "project": "Project name"
+    "project": "ISFWS"
   },
   "github": {
-    "user": "user",
-    "repo": "repo-name",
+    "user": "mishalhshah",
+    "repo": "Test",
     "auth": {
       "type": "basic",
-      "username": "user",
-      "password": "pass"
+      "username": "mishalhshah",
+      "password": "Mishal123#"
     }
   },
   "userMapping": {
-    "jira-username": "github-username"
+    "jira-username": "mishalhshah"
   }
 }
