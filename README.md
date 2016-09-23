@@ -1,6 +1,6 @@
 # Test
 
-[![Build Status](https://travis-ci.org/shahgroup/Test.svg?branch=master)](https://travis-ci.org/shahgroup/Test)
+[![Build Status](https://travis-ci.org/shahgroup/Test.png?branch=master)](https://travis-ci.org/shahgroup/Test)
 
 
 travis-java-ant-example
